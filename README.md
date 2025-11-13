@@ -7,7 +7,7 @@ A desktop tool to generate texture fonts for the Etterna Rebirth theme. Inspired
 - Clone the repo and enter the package directory:
   ```powershell
   git clone https://github.com/LarmaxHarkerX/Texture-Font-Factory.git
-  cd Texture-Font-Factory\texture_font_factory
+  cd Texture-Font-Factory
   ```
 - Create and activate a virtual environment:
   ```powershell
