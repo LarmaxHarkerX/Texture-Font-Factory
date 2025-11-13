@@ -7,7 +7,7 @@
 - 克隆仓库并进入包目录：
   ```powershell
   git clone https://github.com/LarmaxHarkerX/Texture-Font-Factory.git
-  cd Texture-Font-Factory\texture_font_factory
+  cd Texture-Font-Factory
   ```
 - 在包目录下创建并激活虚拟环境：
   ```powershell
