@@ -1,4 +1,6 @@
-> [!WARNING]\r\n> 本应用仍处于 Beta 阶段，功能与稳定性可能变动，请勿用于生产环境。\r\n\r\n本工具用于为 Etterna Rebirth 主题生成材质字体（纹理字体）。受 Texture-Font-Generator-2020-Squirrel 的发布版本启发，用 Python（PySide6 + QFluentWidgets）实现。
+> 注意：本应用仍处于 Beta 阶段，功能与稳定性可能变动，请勿用于生产环境。
+
+本工具用于为 Etterna Rebirth 主题生成材质字体（纹理字体）。受 Texture-Font-Generator-2020-Squirrel 的发布版本启发，用 Python（PySide6 + QFluentWidgets）实现。
 
 ## 安装（Windows）
 - 安装最新版 Python（建议 3.11+）。
@@ -48,5 +50,6 @@
 - QFluentWidgets：https://qfluentwidgets.com/zh/
 - Texture-Font-Generator-2020-Squirrel（TeamRizu）：https://github.com/TeamRizu/Texture-Font-Generator-2020-Squirrel
   - Releases：https://github.com/TeamRizu/Texture-Font-Generator-2020-Squirrel/releases
+
 
 

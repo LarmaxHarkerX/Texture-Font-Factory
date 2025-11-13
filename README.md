@@ -1,4 +1,6 @@
-> [!WARNING]\r\n> This application is currently in beta. Features and stability may change; do not use in production.\r\n\r\nA desktop tool to generate texture fonts for the Etterna Rebirth theme. Inspired by Texture-Font-Generator-2020-Squirrel releases and reimplemented in Python with PySide6 and QFluentWidgets.
+> Warning: This application is currently in beta. Features and stability may change; do not use in production.
+
+A desktop tool to generate texture fonts for the Etterna Rebirth theme. Inspired by Texture-Font-Generator-2020-Squirrel releases and reimplemented in Python with PySide6 and QFluentWidgets.
 
 ## Installation (Windows)
 - Install the latest Python (3.11+ recommended).
@@ -48,5 +50,6 @@
 - QFluentWidgets: https://qfluentwidgets.com/zh/
 - Texture-Font-Generator-2020-Squirrel (TeamRizu): https://github.com/TeamRizu/Texture-Font-Generator-2020-Squirrel
   - Releases: https://github.com/TeamRizu/Texture-Font-Generator-2020-Squirrel/releases
+
 
 
