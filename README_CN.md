@@ -6,7 +6,7 @@
 - 安装最新版 Python（建议 3.11+）。
 - 克隆仓库并进入包目录：
   ```powershell
-  git clone https://github.com/LarmaxHarkerX/Texture-Font-Factory.git
+  git clone https://github.com/LarmaxHarkerX/texture_font_factory.git
   cd Texture-Font-Factory
   ```
 - 在包目录下创建并激活虚拟环境：
